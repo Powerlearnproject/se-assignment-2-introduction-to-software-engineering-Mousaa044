@@ -18,8 +18,7 @@ Explain the various phases of the Software Development Life Cycle. Provide a bri
 Software development life cycle (SDLC) is a structured process that is used to design, develop, and test good-quality software. SDLC, or software development life cycle, is a methodology that defines the entire procedure of software development step-by-step.
 
 Phases of the Software Development Life Cycle (SDLC) include
-Requirements
-According to Sommerville (2024),this phase involves identifying the needs, goals, and constraints of the software, often through interviews, surveys, and observation. Gathering and documenting user needs and system requirements is part of the necessary requirements.
+Requirements-According to Sommerville (2024),this phase involves identifying the needs, goals, and constraints of the software, often through interviews, surveys, and observation. Gathering and documenting user needs and system requirements is part of the necessary requirements.
 
 Design
 According to Pressman & Maxim (2024), the design phase consists of creating high level and  detailed designs of the software's architecture and components consisting of user interface.
