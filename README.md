@@ -18,7 +18,8 @@ Explain the various phases of the Software Development Life Cycle. Provide a bri
 Software development life cycle (SDLC) is a structured process that is used to design, develop, and test good-quality software. SDLC, or software development life cycle, is a methodology that defines the entire procedure of software development step-by-step.
 
 Phases of the Software Development Life Cycle (SDLC) include
-Requirements-According to Sommerville (2024),this phase involves identifying the needs, goals, and constraints of the software, often through interviews, surveys, and observation. Gathering and documenting user needs and system requirements is part of the necessary requirements.
+Requirements
+According to Sommerville (2024),this phase involves identifying the needs, goals, and constraints of the software, often through interviews, surveys, and observation. Gathering and documenting user needs and system requirements is part of the necessary requirements.
 
 Design
 According to Pressman & Maxim (2024), the design phase consists of creating high level and  detailed designs of the software's architecture and components consisting of user interface.
@@ -107,9 +108,10 @@ Software Design Principles:
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
 Software Design Principles are fundamental guidelines and best practices that software developers follow to create software that is maintainable, scalable, and efficient.
 
-Modularity in software engineering refers to the design approach that emphasises the separation of concerns, where a complex software system is divided into smaller, loosely coupled modules.
-
+Modularity in software engineering refers to the design approach that emphasises the separation of concerns, where a complex software system is divided into smaller, loosely coupled modules. 
+                                                                                     OR 
 Modularity in software design is an essential approach that emphasises the separation of a software system into distinct, independent components, often referred to as modules. 
+
 
 The primary objective of modularity is to improve:
 System maintainability
@@ -226,8 +228,6 @@ Resource allocation poses a common challenge in project management, and it may s
 Frequently, project managers are confronted with the task of making do with the resources at hand, even when they are inadequate to complete the project. This often leads to tasks being assigned to team members, vendors, or freelancers who may lack the necessary skills or tools required for those specific project tasks.
 
 If an organization is unwilling or unable to provide the necessary resources and budget for a project, a project manager has limited options. However, before initiating a project, project managers must ensure that each project deliverable is aligned with the appropriate skills and tools required to accomplish them.
-
-
 If any skill or tool gaps are identified, project managers must communicate these concerns with the organization and stakeholders to ensure that all possible efforts are made to obtain the necessary resources for successful project completion.
 
 Scope Creep
